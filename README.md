@@ -95,6 +95,7 @@ Também fora observado a correlação das cores com o preço, bem, os carros mai
 
 A condição de novo são os carros com os maiores valores dentro dessa coluna o que já era esperado. 
 Por último a matriz de correlação trouxe à tona as principais variáveis que afetam o preço dos veículos. Diante de todo o exposto dessa análise dos dados fornecidos pela concessionária, conclui-se que os fatores que mais impactam no preço do veículo são:
+
     - O ano do modelo, com uma correlação positiva de 0,71;
     - A quilometragem com uma correlação negativa de 0,62;
     - E a idade do veículo como uma correlação negativa de 0,7.
