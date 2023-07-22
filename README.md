@@ -65,13 +65,13 @@ Os dados podem conter valores que não correspondem à realidade – por exemplo
 
 ## Perguntas sobre os dados:
 
-* Existe alguma relação correlação entre os dados?
+* Existe alguma correlação entre os dados?
 * Existe um tipo de carro mais anunciado ou vendido que o outro (SUV e Sedan)?
 
 
 # Metodologia
 
-Esse projeto procura avaliar e descobrir os fatores de formação de preço dos veículos listados na base de dados fornecida. Para esse fim, sera abordada três estratégias:
+Esse projeto procura avaliar e descobrir os fatores de formação de preço dos veículos listados na base de dados fornecida. Para esse fim, serão abordadas duas estratégias:
 
 - Análise exploratória;
 
